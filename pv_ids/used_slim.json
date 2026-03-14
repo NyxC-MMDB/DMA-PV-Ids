@@ -1,5 +1,5 @@
 {
-  "_meta_timestamp": "1773385119",
+  "_meta_timestamp": "1773471134",
   "1": {
     "title": "恋は戦争",
     "title_en": "Love is War",
@@ -1704,6 +1704,41 @@
     "title": "孤独の番人",
     "title_en": "The Guardian of Solitude",
     "username": "JohnnyKLawliet"
+  },
+  "680": {
+    "title": "hypnoSpirA",
+    "title_en": "hypnoSpirA",
+    "username": "Tang-kuku"
+  },
+  "681": {
+    "title": "Reon",
+    "title_en": "Reon",
+    "username": "Tang-kuku"
+  },
+  "682": {
+    "title": "Re;BIRTH",
+    "title_en": "Re;BIRTH",
+    "username": "Tang-kuku"
+  },
+  "683": {
+    "title": "RACER'S HIGH",
+    "title_en": "RACER'S HIGH",
+    "username": "Tang-kuku"
+  },
+  "684": {
+    "title": "夕暮れ蝉日記",
+    "title_en": "Evening Cicada Diary",
+    "username": "Tang-kuku"
+  },
+  "685": {
+    "title": "影炎≒Variation",
+    "title_en": "Kagerou≒Variation",
+    "username": "Tang-kuku"
+  },
+  "686": {
+    "title": "Isolation",
+    "title_en": "Isolation",
+    "username": "Tang-kuku"
   },
   "696": {
     "title": "ディスコミュ星人",
@@ -4320,6 +4355,61 @@
     "title_en": "NO, Thank You!",
     "username": "Obbeb"
   },
+  "3687": {
+    "title": "恋椿姫",
+    "title_en": "Koi Tsubaki Hime",
+    "username": "Tang-kuku"
+  },
+  "3688": {
+    "title": "やっぱり雨は降るんだね",
+    "title_en": "Yappari Ame wa Furunda ne",
+    "username": "Tang-kuku"
+  },
+  "3689": {
+    "title": "撫子色ハート",
+    "title_en": "Nadeshiko Iro Haato",
+    "username": "Tang-kuku"
+  },
+  "3690": {
+    "title": "蒼月の懺悔詩～Universal Nemesis",
+    "title_en": "sougetsu no zangeshi~Universal Nemesis",
+    "username": "Tang-kuku"
+  },
+  "3691": {
+    "title": "Aspirin",
+    "title_en": "Aspirin",
+    "username": "Tang-kuku"
+  },
+  "3692": {
+    "title": "先生あのね",
+    "title_en": "Sensei Ano ne",
+    "username": "Tang-kuku"
+  },
+  "3693": {
+    "title": "鴨川桜の舞扇",
+    "title_en": "Kamogawa Sakura no Maiougi",
+    "username": "Tang-kuku"
+  },
+  "3694": {
+    "title": "唱慟イグジスタンス",
+    "title_en": "Shoudou Existence",
+    "username": "Tang-kuku"
+  },
+  "3695": {
+    "title": "クラウドライダー",
+    "title_en": "Cloud Rider",
+    "username": "Tang-kuku"
+  },
+  "3696": {
+    "title": "横浜バトルライン",
+    "title_en": "Yokohama Batoru Rain",
+    "username": "Tang-kuku"
+  },
+  "3697": {
+    "title": "少女自傷癖",
+    "title_en": "Shoujo Jishouheki",
+    "username": "Tang-kuku"
+  },
   "3698": {
     "title": "サマータイムレコード",
     "title_en": "Summer Time Record",
@@ -4332,7 +4422,7 @@
   },
   "3700": {
     "title": "嘶く",
-    "title_en": "Inanaku",
+    "title_en": "inanaku",
     "username": "Tang-kuku"
   },
   "3756": {
@@ -4387,7 +4477,7 @@
   },
   "3802": {
     "title": "オーヴァークロック",
-    "title_en": "Over clock",
+    "title_en": "Over Clock",
     "username": "Tang-kuku"
   },
   "3814": {
@@ -6705,6 +6795,16 @@
     "title_en": "twinkle night",
     "username": "Ruu68x"
   },
+  "7381": {
+    "title": "パレットには君がいっぱい",
+    "title_en": "Palette ni wa Kimi ga Ippai",
+    "username": "marshiee-chann"
+  },
+  "7382": {
+    "title": "Spiki Is Not A Fool!",
+    "title_en": "Speaki isn't a fool!",
+    "username": "marshiee-chann"
+  },
   "7420": {
     "title": "えだまめカレークッキング",
     "title_en": "Edamame Curry Cooking",
@@ -8499,6 +8599,51 @@
     "title": "僕らまだアンダーグラウンド",
     "title_en": "We're Still Underground",
     "username": "Treeguy33"
+  },
+  "8730": {
+    "title": "未完成エゴイズム",
+    "title_en": "mikansei egoizumu",
+    "username": "Tang-kuku"
+  },
+  "8731": {
+    "title": "現実的論理主義者",
+    "title_en": "Genjitsuteki Ronrishugisha",
+    "username": "Tang-kuku"
+  },
+  "8732": {
+    "title": "Un-Lock",
+    "title_en": "Un-Lock",
+    "username": "Tang-kuku"
+  },
+  "8733": {
+    "title": "Nemesis",
+    "title_en": "Nemesis",
+    "username": "Tang-kuku"
+  },
+  "8734": {
+    "title": "Vanity",
+    "title_en": "Vanity",
+    "username": "Tang-kuku"
+  },
+  "8735": {
+    "title": "Simulacrum",
+    "title_en": "Simulacrum",
+    "username": "Tang-kuku"
+  },
+  "8736": {
+    "title": "Stigma",
+    "title_en": "Stigma",
+    "username": "Tang-kuku"
+  },
+  "8737": {
+    "title": "Anemone",
+    "title_en": "Anemone",
+    "username": "Tang-kuku"
+  },
+  "8738": {
+    "title": "If",
+    "title_en": "If",
+    "username": "Tang-kuku"
   },
   "8750": {
     "title": "えでぃっともーどのうた",
