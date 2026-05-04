@@ -1,5 +1,5 @@
 {
-  "_meta_timestamp": "1777795437",
+  "_meta_timestamp": "1777883571",
   "1": {
     "title": "恋は戦争",
     "title_en": "Love is War",
@@ -3471,8 +3471,8 @@
     "username": "natsu_p"
   },
   "2755": {
-    "title": "Playmour",
-    "title_en": "Playmour",
+    "title": "Playmour (Kaya-chan Isn't Scary Ending Song)",
+    "title_en": "Playmour (Kaya-chan Isn't Scary Ending Song)",
     "username": "Kayako"
   },
   "2756": {
@@ -3490,9 +3490,14 @@
     "title_en": "Adrena (Hana-Kimi OP)",
     "username": "Kayako"
   },
+  "2759": {
+    "title": "Shadowgraph (Boogiepop and Others Opening)",
+    "title_en": "Shadowgraph (Boogiepop and Others Opening)",
+    "username": "Kayako"
+  },
   "2760": {
-    "title": "Null",
-    "title_en": "Null",
+    "title": "Attitude (Kill Blue Opening)",
+    "title_en": "Attitude (Kill Blue Opening)",
     "username": "Kayako"
   },
   "2773": {
@@ -9964,6 +9969,11 @@
     "title": "POP/STARS",
     "title_en": "POP/STARS",
     "username": "mikurisu39_"
+  },
+  "9760": {
+    "title": "Null (Intro Loop)",
+    "title_en": "Null (Intro Loop)",
+    "username": "Kayako"
   },
   "9776": {
     "title": "ストリーミングハート",
