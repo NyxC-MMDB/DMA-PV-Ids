@@ -1,5 +1,5 @@
 {
-  "_meta_timestamp": "1785400181",
+  "_meta_timestamp": "1785487918",
   "1": {
     "title": "恋は戦争",
     "title_en": "Love is War",
@@ -8665,6 +8665,11 @@
     "title_en": "New Rules",
     "username": "fujotaro"
   },
+  "8068": {
+    "title": "Petal",
+    "title_en": "Petal",
+    "username": "Eddy"
+  },
   "8082": {
     "title": "ラブリー♥キャビティー",
     "title_en": "LOVELY♥CAVITY",
@@ -13259,5 +13264,10 @@
     "title": "Bibidi Babidi Boo",
     "title_en": "Bibidi Babidi Boo",
     "username": "mikurisu39_"
+  },
+  "20240308": {
+    "title": "we can't be friends (wait for your love)",
+    "title_en": "we can't be friends (wait for your love)",
+    "username": "fujotaro"
   }
 }
