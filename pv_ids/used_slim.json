@@ -1,5 +1,5 @@
 {
-  "_meta_timestamp": "1786347904",
+  "_meta_timestamp": "1786432233",
   "1": {
     "title": "恋は戦争",
     "title_en": "Love is War",
@@ -8240,66 +8240,6 @@
     "title_en": "Gameboy",
     "username": "mo_onjunhui"
   },
-  "7802": {
-    "title": "むかしむかしのきょうのぼく/很久很久以前今天的我",
-    "title_en": "むかしむかしのきょうのぼく/很久很久以前今天的我",
-    "username": "aaxiaocheng"
-  },
-  "7803": {
-    "title": "アイドルを咲かせ/让偶像绽放",
-    "title_en": "アイドルを咲かせ/让偶像绽放",
-    "username": "aaxiaocheng"
-  },
-  "7804": {
-    "title": "シリョクケンサ/视力检查",
-    "title_en": "シリョクケンサ/视力检查",
-    "username": "aaxiaocheng"
-  },
-  "7805": {
-    "title": "ニュース39/新闻39",
-    "title_en": "ニュース39/新闻39",
-    "username": "aaxiaocheng"
-  },
-  "7806": {
-    "title": "ちっちゃな私/小小的我",
-    "title_en": "ちっちゃな私/小小的我",
-    "username": "aaxiaocheng"
-  },
-  "7807": {
-    "title": "我的悲伤是水做的",
-    "title_en": "我的悲伤是水做的",
-    "username": "aaxiaocheng"
-  },
-  "7808": {
-    "title": "ウルトラトレーラー/超预告篇",
-    "title_en": "ウルトラトレーラー/超预告篇",
-    "username": "aaxiaocheng"
-  },
-  "7809": {
-    "title": "反乌托邦Pt.2 ",
-    "title_en": "反乌托邦Pt.2 ",
-    "username": "aaxiaocheng"
-  },
-  "7810": {
-    "title": "悪役にキスシーンを/与反派的吻戏",
-    "title_en": "悪役にキスシーンを/与反派的吻戏",
-    "username": "aaxiaocheng"
-  },
-  "7811": {
-    "title": "Sexy minus/正太扭腰",
-    "title_en": "Sexy minus/正太扭腰",
-    "username": "aaxiaocheng"
-  },
-  "7812": {
-    "title": "アヤノの幸福理論/文乃的幸福理论",
-    "title_en": "アヤノの幸福理論/文乃的幸福理论",
-    "username": "aaxiaocheng"
-  },
-  "7813": {
-    "title": "INTERNET YAMERO/小天使",
-    "title_en": "INTERNET YAMERO/小天使",
-    "username": "aaxiaocheng"
-  },
   "7816": {
     "title": "PONPONPON",
     "title_en": "PONPONPON",
@@ -8695,6 +8635,11 @@
     "title_en": "mirai",
     "username": "JerryFranchi"
   },
+  "8020": {
+    "title": "アンタに言ってんの！",
+    "title_en": "I'm talking to you",
+    "username": "Steven Spielberg (Real)"
+  },
   "8066": {
     "title": "New Rules",
     "title_en": "New Rules",
@@ -9065,6 +9010,56 @@
     "title_en": "Thriller feat. Kasane Teto SV",
     "username": "Nitori09"
   },
+  "8311": {
+    "title": "スポットレイト",
+    "title_en": "Spot Late",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8312": {
+    "title": "Russian Roulette",
+    "title_en": "Russian Roulette",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8313": {
+    "title": "Q &A",
+    "title_en": "Q &A",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8314": {
+    "title": "スプリットダンス",
+    "title_en": "Split Dance",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8315": {
+    "title": "멜트 아이스크림",
+    "title_en": "Melt ice cream",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8316": {
+    "title": "処刑拍手",
+    "title_en": "Execution Clap",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8317": {
+    "title": "次元通信",
+    "title_en": "Signaling",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8318": {
+    "title": "おばけ体験",
+    "title_en": "Ghost Experience",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8319": {
+    "title": "特別救済委員会",
+    "title_en": "Special Relief Committee",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8320": {
+    "title": "キャラクターT",
+    "title_en": "Character T",
+    "username": "Steven Spielberg (Real)"
+  },
   "8322": {
     "title": "シャカシャカにしてあげる♪【してやんよ】",
     "title_en": "I'll Shaka-Shaka You♪ (For Reals)",
@@ -9079,6 +9074,36 @@
     "title": "Cagayake! Girls (Vocaloid Version)",
     "title_en": "Shine! Girls (Vocaloid Version)",
     "username": "shay"
+  },
+  "8411": {
+    "title": "픽셀 다운",
+    "title_en": "Pixel Down",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8412": {
+    "title": "Blushing Cherry",
+    "title_en": "Blushing Cherry",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8413": {
+    "title": "フィクションです。",
+    "title_en": "It's fiction",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8414": {
+    "title": "Brain Rot",
+    "title_en": "Brain Rot",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8415": {
+    "title": "Affection Addiction",
+    "title_en": "Affection Addiction",
+    "username": "Steven Spielberg (Real)"
+  },
+  "8416": {
+    "title": "WHODUNIT",
+    "title_en": "WHODUNIT",
+    "username": "Steven Spielberg (Real)"
   },
   "8460": {
     "title": "Creator",
@@ -11823,22 +11848,22 @@
   "10380": {
     "title": "hp",
     "title_en": "hp",
-    "username": "Xyzzy ☆〜（ゝ。∂）"
+    "username": "kris.loll"
   },
   "10381": {
     "title": "三日月ステップ",
     "title_en": "Step for a Crescent",
-    "username": "Xyzzy ☆〜（ゝ。∂）"
+    "username": "kris.loll"
   },
   "10390": {
     "title": "ワンダー",
     "title_en": "Wonder",
-    "username": "Xyzzy ☆〜（ゝ。∂）"
+    "username": "kris.loll"
   },
   "10429": {
     "title": "my terminal",
     "title_en": "my terminal",
-    "username": "Xyzzy ☆〜（ゝ。∂）"
+    "username": "kris.loll"
   },
   "10500": {
     "title": "Bake no hana",
@@ -12698,7 +12723,7 @@
   "50103": {
     "title": "削いで、",
     "title_en": "Soide,",
-    "username": "Xyzzy ☆〜（ゝ。∂）"
+    "username": "kris.loll"
   },
   "52778": {
     "title": "Super Mario Bros",
