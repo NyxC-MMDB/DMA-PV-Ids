@@ -1,5 +1,5 @@
 {
-  "_meta_timestamp": "1794749910",
+  "_meta_timestamp": "1794841773",
   "1": {
     "title": "恋は戦争",
     "title_en": "Love is War",
@@ -90,11 +90,6 @@
     "title_en": "Song of Life",
     "username": "MM+"
   },
-  "19": {
-    "title": "ハト",
-    "title_en": "White Dove",
-    "username": "Clash"
-  },
   "20": {
     "title": "moon",
     "title_en": "moon",
@@ -125,11 +120,6 @@
     "title_en": "Updating My Love List?",
     "username": "MM+"
   },
-  "27": {
-    "title": "Ievan Polkka",
-    "title_en": "Ievan Polkka",
-    "username": "Clash"
-  },
   "28": {
     "title": "みくみくにしてあげる♪【してやんよ】",
     "title_en": "I'll Miku-Miku You♪ (For Reals)",
@@ -154,26 +144,6 @@
     "title": "初音ミクの消失",
     "title_en": "The Disappearance of Hatsune Miku",
     "username": "MM+"
-  },
-  "33": {
-    "title": "＜最高速の別れの歌＞",
-    "title_en": "＜A Farewell Song At Top Speed＞",
-    "username": "JohnnyKLawliet"
-  },
-  "34": {
-    "title": "♪V♬♫♩V♬♫♫V",
-    "title_en": "♪V♬♫♩V♬♫♫V",
-    "username": "JohnnyKLawliet"
-  },
-  "35": {
-    "title": "神",
-    "title_en": "GOD",
-    "username": "JohnnyKLawliet"
-  },
-  "36": {
-    "title": "「私だけが唄うの」",
-    "title_en": "「Only I will sing it!」",
-    "username": "JohnnyKLawliet"
   },
   "37": {
     "title": "初めての恋が終わる時",
@@ -564,11 +534,6 @@
     "title": "melody...",
     "title_en": "melody...",
     "username": "MM+"
-  },
-  "207": {
-    "title": "saturation",
-    "title_en": "Saturation",
-    "username": "Clash"
   },
   "208": {
     "title": "迷的サイバネティックス",
@@ -1380,11 +1345,6 @@
     "title_en": "FREEDOM DiVE↓",
     "username": "Genmo"
   },
-  "543": {
-    "title": "Ahoy!! 我ら宝鐘海賊団☆",
-    "title_en": "Ahoy!! We Are the Houshou Pirates☆",
-    "username": "Saye"
-  },
   "550": {
     "title": "ウラオモテ",
     "title_en": "That's Right!!",
@@ -1780,21 +1740,6 @@
     "title_en": "Isolation",
     "username": "Tang-kuku"
   },
-  "696": {
-    "title": "ディスコミュ星人",
-    "title_en": "Discommunication Alien",
-    "username": "Saye"
-  },
-  "697": {
-    "title": "Doggy God's Street",
-    "title_en": "Doggy God's Street",
-    "username": "Saye"
-  },
-  "698": {
-    "title": "「Q」",
-    "title_en": "「Q」",
-    "username": "Saye"
-  },
   "710": {
     "title": "桜ノ雨",
     "title_en": "Sakura no Ame",
@@ -1900,260 +1845,15 @@
     "title_en": "Kirameki Inokori Daisenso",
     "username": "Saye, stot342i"
   },
-  "800": {
-    "title": "Hand in Hand -X Edition-",
-    "title_en": "Hand in Hand -X Edition-",
-    "username": "coolchar"
-  },
-  "801": {
-    "title": "Strangers",
-    "title_en": "Strangers",
-    "username": "coolchar"
-  },
-  "802": {
-    "title": "愛Dee",
-    "title_en": "Ai Dee",
-    "username": "coolchar"
-  },
-  "803": {
-    "title": "ストリーミングハート",
-    "title_en": "Streaming Heart",
-    "username": "coolchar"
-  },
-  "804": {
-    "title": "バビロン",
-    "title_en": "Babylon",
-    "username": "coolchar"
-  },
-  "805": {
-    "title": "ロストワンの号哭",
-    "title_en": "The Lost One's Weeping",
-    "username": "coolchar"
-  },
-  "806": {
-    "title": "すろぉもぉしょん",
-    "title_en": "Slow Motion",
-    "username": "coolchar"
-  },
-  "807": {
-    "title": "ウミユリ海底譚",
-    "title_en": "Tale of the Deep-sea Lily",
-    "username": "coolchar"
-  },
-  "808": {
-    "title": "恋愛裁判",
-    "title_en": "Love Trial",
-    "username": "coolchar"
-  },
-  "809": {
-    "title": "愛の詩",
-    "title_en": "Love Song",
-    "username": "coolchar"
-  },
-  "810": {
-    "title": "ハジメテノオト -X Edition-",
-    "title_en": "The First Sound -X Edition-",
-    "username": "coolchar"
-  },
-  "811": {
-    "title": "LOL -lots of laugh- -X Edition-",
-    "title_en": "LOL -lots of laugh- -X Edition-",
-    "username": "coolchar"
-  },
-  "812": {
-    "title": "ツギハギスタッカート",
-    "title_en": "Patchwork Stacatto",
-    "username": "coolchar"
-  },
-  "813": {
-    "title": "クノイチでも恋がしたい",
-    "title_en": "Even a Kunoichi Needs Love",
-    "username": "coolchar"
-  },
-  "814": {
-    "title": "Calc.",
-    "title_en": "Calc.",
-    "username": "coolchar"
-  },
-  "815": {
-    "title": "紅一葉",
-    "title_en": "A Single Red Leaf",
-    "username": "coolchar"
-  },
-  "816": {
-    "title": "聖槍爆裂ボーイ",
-    "title_en": "Holy Lance Explosion Boy",
-    "username": "coolchar"
-  },
-  "817": {
-    "title": "卑怯戦隊うろたんだー",
-    "title_en": "Urotander, Underhanded Rangers",
-    "username": "coolchar"
-  },
-  "818": {
-    "title": "Mrs.Pumpkinの滑稽な夢",
-    "title_en": "Humorous Dream of Mrs. Pumpkin",
-    "username": "coolchar"
-  },
-  "819": {
-    "title": "独りんぼエンヴィー",
-    "title_en": "Solitary Envy",
-    "username": "coolchar"
-  },
-  "820": {
-    "title": "ラズベリー＊モンスター",
-    "title_en": "Raspberry＊Monster",
-    "username": "coolchar"
-  },
-  "821": {
-    "title": "脳内革命ガール",
-    "title_en": "Brain Revolution Girl",
-    "username": "coolchar"
-  },
-  "822": {
-    "title": "Amazing Dolce",
-    "title_en": "Amazing Dolce",
-    "username": "coolchar"
-  },
-  "823": {
-    "title": "罪の名前",
-    "title_en": "Name of the Sin",
-    "username": "coolchar"
-  },
-  "824": {
-    "title": "Satisfaction",
-    "title_en": "Satisfaction",
-    "username": "coolchar"
-  },
-  "825": {
-    "title": "キュート・メドレー ～アイドル サウンズ～",
-    "title_en": "Cute Medley - Idol Sounds",
-    "username": "coolchar"
-  },
-  "826": {
-    "title": "はじまりのメドレー 〜プライマリーカラーズ〜",
-    "title_en": "Beginning Medley - Primary Colors",
-    "username": "coolchar"
-  },
-  "827": {
-    "title": "クール・メドレー ～サイバーロックジャム～",
-    "title_en": "Cool Medley - Cyber Rock Jam",
-    "username": "coolchar"
-  },
-  "828": {
-    "title": "ビューティ・メドレー 〜Glossy Mixture〜",
-    "title_en": "Elegant Medley - Glossy Mixture",
-    "username": "coolchar"
-  },
-  "829": {
-    "title": "カオス・メドレー ～ギガリミックス～",
-    "title_en": "Quirky Medley - Giga-Remix",
-    "username": "coolchar"
-  },
-  "830": {
-    "title": "終極のメドレー ～超絶技巧暴走組曲～",
-    "title_en": "Ending Medley - Ultimate Exquisite Rampage",
-    "username": "coolchar"
-  },
-  "831": {
-    "title": "Sharing The World",
-    "title_en": "Sharing The World",
-    "username": "coolchar"
-  },
   "832": {
     "title": "Hand in Hand",
     "title_en": "Hand in Hand",
     "username": "MM+"
   },
-  "851": {
-    "title": "StarSeed ～カクセイ～",
-    "title_en": "StarSeed ～Kakusei～",
-    "username": "Sach"
-  },
-  "852": {
-    "title": "Why Not？",
-    "title_en": "Why Not?",
-    "username": "Sach"
-  },
-  "853": {
-    "title": "Singing in the Rain",
-    "title_en": "Singing in the Rain",
-    "username": "Sach"
-  },
-  "854": {
-    "title": "Girl Front",
-    "title_en": "Girl Front",
-    "username": "Sach"
-  },
-  "855": {
-    "title": "ViViD",
-    "title_en": "ViViD",
-    "username": "Sach"
-  },
-  "856": {
-    "title": "Let Me In",
-    "title_en": "Let Me In",
-    "username": "Sach"
-  },
-  "857": {
-    "title": "Hi High",
-    "title_en": "Hi High",
-    "username": "Sach"
-  },
-  "858": {
-    "title": "Egoist",
-    "title_en": "Egoist",
-    "username": "Sach"
-  },
-  "859": {
-    "title": "new",
-    "title_en": "new",
-    "username": "Sach"
-  },
-  "861": {
-    "title": "love4eva",
-    "title_en": "love4eva",
-    "username": "Sach"
-  },
-  "862": {
-    "title": "Love＆Live",
-    "title_en": "Love&Live",
-    "username": "Sach"
-  },
-  "863": {
-    "title": "Everyday I Love You",
-    "title_en": "Everyday I Love You",
-    "username": "Sach"
-  },
   "865": {
     "title": "てるみい",
     "title_en": "Tell Me",
     "username": "Saye, stot342i"
-  },
-  "866": {
-    "title": "おこちゃま戦争",
-    "title_en": "Childish War",
-    "username": "Saye"
-  },
-  "867": {
-    "title": "マイオドレ！舞舞タイム",
-    "title_en": "Let's Dance! Mai Mai Time!",
-    "username": "Saye"
-  },
-  "868": {
-    "title": "グッバイ宣言",
-    "title_en": "Goodbye Declaration",
-    "username": "Saye"
-  },
-  "869": {
-    "title": "Rise",
-    "title_en": "Rise",
-    "username": "Saye"
-  },
-  "870": {
-    "title": "シル・ヴ・プレジデント",
-    "title_en": "S'il Vous President",
-    "username": "Saye"
   },
   "875": {
     "title": "重音territory ～ずっとテトのターン",
@@ -2815,11 +2515,6 @@
     "title_en": "Dear My Witchcraft",
     "username": "sekkor"
   },
-  "1846": {
-    "title": "Spoken For",
-    "title_en": "Spoken For",
-    "username": "noah"
-  },
   "1848": {
     "title": "借りてきた猫",
     "title_en": "Do The Dance",
@@ -3115,11 +2810,6 @@
     "title_en": "I Wish That I Could Fall",
     "username": "noah"
   },
-  "2208": {
-    "title": "Human",
-    "title_en": "Human",
-    "username": "noah"
-  },
   "2245": {
     "title": "Trust Us (Vees Only)",
     "title_en": "Trust Us (Vees Only)",
@@ -3375,36 +3065,6 @@
     "title_en": "Choco Love You",
     "username": "shay"
   },
-  "2571": {
-    "title": "偽顔",
-    "title_en": "Nisekao",
-    "username": "shay"
-  },
-  "2572": {
-    "title": "Freedom (TV Size)",
-    "title_en": "Freedom (TV Size)",
-    "username": "shay"
-  },
-  "2573": {
-    "title": "It's going down now",
-    "title_en": "It's going down now",
-    "username": "shay"
-  },
-  "2574": {
-    "title": "Machine Love",
-    "title_en": "Machine Love",
-    "username": "shay"
-  },
-  "2575": {
-    "title": "キリがないから",
-    "title_en": "Kiri Ga Naikara",
-    "username": "shay"
-  },
-  "2576": {
-    "title": "Damn",
-    "title_en": "Damn",
-    "username": "shay"
-  },
   "2579": {
     "title": "シアンブルー",
     "title_en": "Cyan Blue",
@@ -3415,19 +3075,9 @@
     "title_en": "Looping The Rooms",
     "username": "shay"
   },
-  "2581": {
-    "title": "humansongs",
-    "title_en": "humansongs",
-    "username": "shay"
-  },
   "2582": {
     "title": "Tian Tian",
     "title_en": "Tian Tian",
-    "username": "shay"
-  },
-  "2589": {
-    "title": "Miniskirt",
-    "title_en": "Miniskirt",
     "username": "shay"
   },
   "2590": {
@@ -3480,86 +3130,6 @@
     "title_en": "Go Google It (Ggrks)",
     "username": "shay, calico"
   },
-  "2610": {
-    "title": "恐怖ガーデン",
-    "title_en": "Fear Garden",
-    "username": "polterkhoist"
-  },
-  "2611": {
-    "title": "キュートなカノジョ",
-    "title_en": "Cute Na Kanojo",
-    "username": "polterkhoist"
-  },
-  "2612": {
-    "title": "あぁあぁあぁああぁあぁああぁ",
-    "title_en": "AaAaAaAAaAaAAa",
-    "username": "polterkhoist"
-  },
-  "2613": {
-    "title": "肺超微細珪火山症",
-    "title_en": "Pneumonoultramicroscopicsilicovolcanoconiosis",
-    "username": "polterkhoist"
-  },
-  "2614": {
-    "title": "いますぐ輪廻",
-    "title_en": "Retry Now",
-    "username": "polterkhoist"
-  },
-  "2615": {
-    "title": "モニタリング",
-    "title_en": "Monitoring",
-    "username": "polterkhoist"
-  },
-  "2616": {
-    "title": "物をぱらぱら壊す",
-    "title_en": "Breaking Things Into Pieces",
-    "username": "polterkhoist"
-  },
-  "2617": {
-    "title": "マトリョシカ",
-    "title_en": "MATRYOSHKA",
-    "username": "polterkhoist"
-  },
-  "2618": {
-    "title": "失敗時代",
-    "title_en": "FLOP ERA",
-    "username": "polterkhoist"
-  },
-  "2619": {
-    "title": "静的",
-    "title_en": "Static",
-    "username": "polterkhoist"
-  },
-  "2620": {
-    "title": "静的 - 再起動",
-    "title_en": "Static - REBOOTED",
-    "username": "polterkhoist"
-  },
-  "2621": {
-    "title": "代弁された",
-    "title_en": "Spoken For",
-    "username": "polterkhoist"
-  },
-  "2622": {
-    "title": "マネマネサイコトロピック",
-    "title_en": "Fake Fake Psychotropic",
-    "username": "polterkhoist"
-  },
-  "2623": {
-    "title": "イガク",
-    "title_en": "Medicine",
-    "username": "polterkhoist"
-  },
-  "2624": {
-    "title": "求＆影",
-    "title_en": "Q&A",
-    "username": "polterkhoist"
-  },
-  "2625": {
-    "title": "神経多様性",
-    "title_en": "NEURODIVERGENCE",
-    "username": "polterkhoist"
-  },
   "2652": {
     "title": "Creeper Rap",
     "title_en": "Creeper Rap",
@@ -3594,11 +3164,6 @@
     "title": "重ねトマト缶",
     "title_en": "Stacked Tomato Cans",
     "username": "marshiee-chann"
-  },
-  "2693": {
-    "title": "ヴァルゴ",
-    "title_en": "Virgo",
-    "username": "polterkhoist"
   },
   "2697": {
     "title": "Yi Hua Yi Shijie",
@@ -4200,611 +3765,6 @@
     "title_en": "Path to glory (Game.size)",
     "username": "hiki8man"
   },
-  "3285": {
-    "title": "アンビバレンツ",
-    "title_en": "Ambivalent",
-    "username": "Doatz"
-  },
-  "3286": {
-    "title": "おじゃま虫II",
-    "title_en": "Stickybug II",
-    "username": "Doatz"
-  },
-  "3288": {
-    "title": "自己愛性カワイズム",
-    "title_en": "Narcissism Kawaism",
-    "username": "Doatz"
-  },
-  "3289": {
-    "title": "アンチビート",
-    "title_en": "Anti Beat",
-    "username": "Doatz"
-  },
-  "3290": {
-    "title": "いいや",
-    "title_en": "118",
-    "username": "Doatz"
-  },
-  "3291": {
-    "title": "映えない",
-    "title_en": "Not Photogenic",
-    "username": "Doatz"
-  },
-  "3292": {
-    "title": "Sinner",
-    "title_en": "Sinner",
-    "username": "Doatz"
-  },
-  "3294": {
-    "title": "Always Be ^o^",
-    "title_en": "Always Be ^o^",
-    "username": "Doatz"
-  },
-  "3295": {
-    "title": "giga戯画witch",
-    "title_en": "Giga Cartoon Witch",
-    "username": "Doatz"
-  },
-  "3296": {
-    "title": "ホワイトハッピー",
-    "title_en": "White Happy",
-    "username": "Doatz"
-  },
-  "3297": {
-    "title": "チョコレイト日和",
-    "title_en": "A Perfect Day for Chocolate",
-    "username": "Doatz"
-  },
-  "3298": {
-    "title": "おはよう元年",
-    "title_en": "Good Morning, First Year",
-    "username": "Doatz"
-  },
-  "3299": {
-    "title": "G.H.O.S.T.",
-    "title_en": "G.H.O.S.T.",
-    "username": "Doatz"
-  },
-  "3302": {
-    "title": "ATARI FRONT PROGRAM Feat. 可不",
-    "title_en": "ATARI FRONT PROGRAM Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3303": {
-    "title": "音偽バナシ",
-    "title_en": "Fakery Tale",
-    "username": "Doatz"
-  },
-  "3304": {
-    "title": "サイコグラム",
-    "title_en": "Psychogram",
-    "username": "Doatz"
-  },
-  "3306": {
-    "title": "ずれていく",
-    "title_en": "Out of Step",
-    "username": "Doatz"
-  },
-  "3307": {
-    "title": "はらぺこなんです！！",
-    "title_en": "I am Hungry!!",
-    "username": "Doatz"
-  },
-  "3311": {
-    "title": "グランブル",
-    "title_en": "Grumble",
-    "username": "Doatz"
-  },
-  "3312": {
-    "title": "不埒な喝采 Feat.可不",
-    "title_en": "Unscrupulous Cheers Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3313": {
-    "title": "KITSUNE Patissiere",
-    "title_en": "KITSUNE Patissiere",
-    "username": "Doatz"
-  },
-  "3314": {
-    "title": "破壊少女 Feat. 狐子",
-    "title_en": "Girl of Destruction Feat. COKO",
-    "username": "Doatz"
-  },
-  "3315": {
-    "title": "Whisper Whisper Whisper",
-    "title_en": "Whisper Whisper Whisper",
-    "username": "Doatz"
-  },
-  "3316": {
-    "title": "あんたにあっかんべ",
-    "title_en": "I'll Stick My Tongue Out At You",
-    "username": "Doatz"
-  },
-  "3317": {
-    "title": "Datte Feat. 夏色花梨",
-    "title_en": "Datte Feat. Natsuki Karin",
-    "username": "Doatz"
-  },
-  "3318": {
-    "title": "Boi Feat. 可不",
-    "title_en": "Boi Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3321": {
-    "title": "色彩 Feat. 可不",
-    "title_en": "Colors Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3323": {
-    "title": "2.14",
-    "title_en": "2.14",
-    "username": "Doatz"
-  },
-  "3324": {
-    "title": "アンサー Feat. 花譜",
-    "title_en": "Answer Feat. KAF",
-    "username": "Doatz"
-  },
-  "3325": {
-    "title": "イナくなっちゃえ大作戦",
-    "title_en": "DOMESTIC Revenger",
-    "username": "Doatz"
-  },
-  "3326": {
-    "title": "汚れっちまった、哀しみに…（笑）",
-    "title_en": "Iron Irony",
-    "username": "Doatz"
-  },
-  "3327": {
-    "title": "花となれ Feat. 可不",
-    "title_en": "Become a Flower Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3328": {
-    "title": "かふたんがカレーうどんを食べたがっている",
-    "title_en": "Kafu-tan Wants to Eat Curry Udon",
-    "username": "Doatz"
-  },
-  "3329": {
-    "title": "リセットなの。Feat. 可不",
-    "title_en": "Reset Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3330": {
-    "title": "女の子になりたい",
-    "title_en": "I wanna be a Girl",
-    "username": "Doatz"
-  },
-  "3331": {
-    "title": "アネモネ",
-    "title_en": "Anemone",
-    "username": "Doatz"
-  },
-  "3333": {
-    "title": "アイムハイ",
-    "title_en": "I'm high",
-    "username": "Doatz"
-  },
-  "3334": {
-    "title": "デビルズデビル Feat. フラワ ・ 可不",
-    "title_en": "Devil's Devil Feat. Flower & KAFU",
-    "username": "Doatz"
-  },
-  "3335": {
-    "title": "Dance Deggee Feat. 可不",
-    "title_en": "Dance Deggee Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3336": {
-    "title": "リセットシンドローム Feat. 狐子",
-    "title_en": "Reset Syndrome Feat. COKO",
-    "username": "Doatz"
-  },
-  "3337": {
-    "title": "LOVE&POPS Feat. 可不",
-    "title_en": "LOVE&POPS Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3339": {
-    "title": "身体は正直だって言ってんの",
-    "title_en": "Just saying, the body is honest",
-    "username": "Doatz"
-  },
-  "3340": {
-    "title": "[un]INSOMNIA Feat. 結月ゆかり",
-    "title_en": "[un]INSOMNIA Feat. Yuzuki Yukari",
-    "username": "Doatz"
-  },
-  "3341": {
-    "title": "狐の通り道 Feat. 狐子",
-    "title_en": "Fox's Path Feat. COKO",
-    "username": "Doatz"
-  },
-  "3342": {
-    "title": "バタフライエンド",
-    "title_en": "Butterfly End",
-    "username": "Doatz"
-  },
-  "3343": {
-    "title": "星を繋ぐ",
-    "title_en": "Connecting the Stars",
-    "username": "Doatz"
-  },
-  "3345": {
-    "title": "独りんぼエンヴィー",
-    "title_en": "Solitary Envy",
-    "username": "Doatz"
-  },
-  "3346": {
-    "title": "アンドロイドガール",
-    "title_en": "Android Girl",
-    "username": "Doatz"
-  },
-  "3347": {
-    "title": "倍速視聴：1分あれば十分さ Feat. 小春六花",
-    "title_en": "Double speed viewing: 1 minute is enough Feat. Rikka",
-    "username": "Doatz"
-  },
-  "3348": {
-    "title": "フォニイ Feat. 可不",
-    "title_en": "Phony Feat. KAFU",
-    "username": "Doatz"
-  },
-  "3349": {
-    "title": "ヒトリユラリ",
-    "title_en": "Hitori Yurari",
-    "username": "Doatz"
-  },
-  "3350": {
-    "title": "脳内革命ガール",
-    "title_en": "Brain Revolution Girl",
-    "username": "Doatz"
-  },
-  "3351": {
-    "title": "愛して愛して愛して",
-    "title_en": "Aishite Aishite Aishite",
-    "username": "Doatz"
-  },
-  "3352": {
-    "title": "トウテツ",
-    "title_en": "Toutetsu",
-    "username": "Doatz"
-  },
-  "3353": {
-    "title": "やったれ！音合戦",
-    "title_en": "Yattare! Ongassen",
-    "username": "Doatz"
-  },
-  "3354": {
-    "title": "メロウライト",
-    "title_en": "Mellow Light",
-    "username": "Doatz"
-  },
-  "3356": {
-    "title": "うみたがり",
-    "title_en": "Umigatari",
-    "username": "Doatz"
-  },
-  "3357": {
-    "title": "ハッピーホロウと神様倶楽部",
-    "title_en": "Happy Hollow to Kamisama Club",
-    "username": "Doatz"
-  },
-  "3358": {
-    "title": "ボルテッカー",
-    "title_en": "Volt Tackle",
-    "username": "Doatz"
-  },
-  "3359": {
-    "title": "見つかんない見つかんない",
-    "title_en": "Missing, Missing",
-    "username": "Doatz"
-  },
-  "3360": {
-    "title": "THE DYING MESSAGE",
-    "title_en": "THE DYING MESSAGE",
-    "username": "Doatz"
-  },
-  "3361": {
-    "title": "電気予報",
-    "title_en": "Electricity Forecast",
-    "username": "Doatz"
-  },
-  "3362": {
-    "title": "ミライどんなだろう",
-    "title_en": "What Kind of Future",
-    "username": "Doatz"
-  },
-  "3363": {
-    "title": "ポケットのモンスター",
-    "title_en": "The Pokémon Inside My Heart",
-    "username": "Doatz"
-  },
-  "3364": {
-    "title": "SnowMix♪",
-    "title_en": "SnowMix♪",
-    "username": "Doatz"
-  },
-  "3365": {
-    "title": "君色マリンスノウ",
-    "title_en": "Colorful Marine Snow",
-    "username": "Doatz"
-  },
-  "3366": {
-    "title": "Fondant Step",
-    "title_en": "Fondant Step",
-    "username": "Doatz"
-  },
-  "3367": {
-    "title": "ぽかぽかの星",
-    "title_en": "Poka Poka Planet",
-    "username": "Doatz"
-  },
-  "3368": {
-    "title": "アイ",
-    "title_en": "Ai",
-    "username": "Doatz"
-  },
-  "3369": {
-    "title": "四角い地球を丸くする",
-    "title_en": "Round off the Square Earth",
-    "username": "Doatz"
-  },
-  "3370": {
-    "title": "スターナイトスノウ",
-    "title_en": "Star Night Snow",
-    "username": "Doatz"
-  },
-  "3371": {
-    "title": "雪がとける前に",
-    "title_en": "Before the Snow Melts",
-    "username": "Doatz"
-  },
-  "3372": {
-    "title": "Snow Fairy Story",
-    "title_en": "Snow Fairy Story",
-    "username": "Doatz"
-  },
-  "3373": {
-    "title": "好き！雪！本気マジック",
-    "title_en": "Love! Snow! Really Magic",
-    "username": "Doatz"
-  },
-  "3374": {
-    "title": "Snow Song Show",
-    "title_en": "Snow Song Show",
-    "username": "Doatz"
-  },
-  "3375": {
-    "title": "酒呑童子",
-    "title_en": "Shutendouji",
-    "username": "Doatz"
-  },
-  "3376": {
-    "title": "Die For You",
-    "title_en": "Die For You",
-    "username": "Doatz"
-  },
-  "3377": {
-    "title": "うみなおし",
-    "title_en": "Uminaoshi",
-    "username": "Doatz"
-  },
-  "3378": {
-    "title": "Reon - Remind Version",
-    "title_en": "Reon - Remind Version",
-    "username": "Doatz"
-  },
-  "3379": {
-    "title": "あいしていたのに",
-    "title_en": "Even Though I Had Loved You",
-    "username": "Doatz"
-  },
-  "3380": {
-    "title": "きみとそらをとぶ",
-    "title_en": "Fly in the Sky With You",
-    "username": "Doatz"
-  },
-  "3381": {
-    "title": "少女ケシゴム",
-    "title_en": "Girl Eraser",
-    "username": "Doatz"
-  },
-  "3382": {
-    "title": "ニャン黙の了解",
-    "title_en": "Nyan-Spoken Understanding",
-    "username": "Doatz"
-  },
-  "3383": {
-    "title": "戦闘！初音ミク",
-    "title_en": "Battle! Hatsune Miku",
-    "username": "Doatz"
-  },
-  "3384": {
-    "title": "天照ラセ - 10th Anniversary ver. -",
-    "title_en": "Amaterase - 10th Anniversary ver. -",
-    "username": "Doatz"
-  },
-  "3385": {
-    "title": "ガッチュー！",
-    "title_en": "I GOT YOU!",
-    "username": "Doatz"
-  },
-  "3386": {
-    "title": "難聴系男子が倒せない",
-    "title_en": "I Can't Win Against Dense Guys!",
-    "username": "Doatz"
-  },
-  "3387": {
-    "title": "ハッピーチートデー",
-    "title_en": "Happy Cheat Day",
-    "username": "Doatz"
-  },
-  "3388": {
-    "title": "JUVENILE",
-    "title_en": "JUVENILE",
-    "username": "Doatz"
-  },
-  "3389": {
-    "title": "シェイディ・レイディ",
-    "title_en": "Shady Lady",
-    "username": "Doatz"
-  },
-  "3390": {
-    "title": "Round and Land",
-    "title_en": "Round and Land",
-    "username": "Doatz"
-  },
-  "3391": {
-    "title": "1000年生きてる",
-    "title_en": "living millennium",
-    "username": "Doatz"
-  },
-  "3392": {
-    "title": "アマツキツネ - 10th anniversary -",
-    "title_en": "Amatsu Kitsune - 10th anniversary -",
-    "username": "Doatz"
-  },
-  "3393": {
-    "title": "CH4NGE",
-    "title_en": "CH4NGE",
-    "username": "Doatz"
-  },
-  "3394": {
-    "title": "バイメーバイメー",
-    "title_en": "Baimei Baimei",
-    "username": "Doatz"
-  },
-  "3395": {
-    "title": "光よ",
-    "title_en": "O Light",
-    "username": "Doatz"
-  },
-  "3396": {
-    "title": "俺ゴーストタイプ",
-    "title_en": "I'm a Ghost Type",
-    "username": "Doatz"
-  },
-  "3397": {
-    "title": "CRACKS",
-    "title_en": "CRACKS",
-    "username": "Doatz"
-  },
-  "3398": {
-    "title": "INTERGALACTIA",
-    "title_en": "INTERGALACTIA",
-    "username": "Doatz"
-  },
-  "3399": {
-    "title": "GANGNAM STYLE",
-    "title_en": "GANGNAM STYLE",
-    "username": "Doatz"
-  },
-  "3400": {
-    "title": "Into Starlight",
-    "title_en": "Into Starlight",
-    "username": "Doatz"
-  },
-  "3401": {
-    "title": "おぎゃりないざー",
-    "title_en": "OGYARINIZER",
-    "username": "Doatz"
-  },
-  "3403": {
-    "title": "ひゅ〜どろどろ",
-    "title_en": "Woo~oosh, Oozing",
-    "username": "Doatz"
-  },
-  "3404": {
-    "title": "みつけた",
-    "title_en": "FOUND YOU",
-    "username": "Doatz"
-  },
-  "3405": {
-    "title": "Encounter",
-    "title_en": "Encounter",
-    "username": "Doatz"
-  },
-  "3406": {
-    "title": "むげんのチケット",
-    "title_en": "Eon Ticket",
-    "username": "Doatz"
-  },
-  "3407": {
-    "title": "ネコ通信",
-    "title_en": "Cat Communication",
-    "username": "Doatz"
-  },
-  "3408": {
-    "title": "夕暮れの真相",
-    "title_en": "The Truth of the Evening",
-    "username": "Doatz"
-  },
-  "3409": {
-    "title": "天使だと思っていたのに",
-    "title_en": "I thought I was an Angel",
-    "username": "Doatz"
-  },
-  "3410": {
-    "title": "ノーブル・ローズ",
-    "title_en": "NOBLE ROSE",
-    "username": "Doatz"
-  },
-  "3411": {
-    "title": "U’まれてきてくれてありがとうございます.",
-    "title_en": "U'marete Kite Kurete Arigatou.",
-    "username": "Doatz"
-  },
-  "3412": {
-    "title": "わたし依存症",
-    "title_en": "Watashi Izonsyou",
-    "username": "Doatz"
-  },
-  "3413": {
-    "title": "PARTY ROCK ETERNITY",
-    "title_en": "PARTY ROCK ETERNITY",
-    "username": "Doatz"
-  },
-  "3414": {
-    "title": "たびのまえ、たびのあと",
-    "title_en": "Journey's Prequels, Journey's Traces",
-    "username": "Doatz"
-  },
-  "3415": {
-    "title": "エスパーエスパー",
-    "title_en": "Psychic Psychic",
-    "username": "Doatz"
-  },
-  "3416": {
-    "title": "メロメロイド",
-    "title_en": "Attractloid",
-    "username": "Doatz"
-  },
-  "3417": {
-    "title": "Glorious Day",
-    "title_en": "Glorious Day",
-    "username": "Doatz"
-  },
-  "3418": {
-    "title": "Snowdome",
-    "title_en": "Snowdome",
-    "username": "Doatz"
-  },
-  "3419": {
-    "title": "ゴー！ビッパ団",
-    "title_en": "GO! Team BIPPA",
-    "username": "Doatz"
-  },
-  "3420": {
-    "title": "新人類",
-    "title_en": "New Human Race",
-    "username": "Doatz"
-  },
-  "3421": {
-    "title": "ダメンズ ロープウェイ",
-    "title_en": "Damens Ropeway",
-    "username": "Doatz"
-  },
   "3422": {
     "title": "形のない花",
     "title_en": "A Flower Without Form",
@@ -4844,11 +3804,6 @@
     "title": "ウサテイ20XX",
     "title_en": "usate 20XX",
     "username": "ParticularMloyne, hiki8man"
-  },
-  "3437": {
-    "title": "リズの内心革命",
-    "title_en": "Revolution of Liz's Innermost Heart",
-    "username": "Doatz"
   },
   "3438": {
     "title": "ヘビーメタルラバー",
@@ -5615,76 +4570,6 @@
     "title_en": "Lyrical Monster",
     "username": "Saye"
   },
-  "4200": {
-    "title": "インターネットサバイバー",
-    "title_en": "Internet Survivor",
-    "username": "Saye"
-  },
-  "4201": {
-    "title": "Hi Fine FOX!!",
-    "title_en": "Hi Fine FOX!!",
-    "username": "Saye"
-  },
-  "4202": {
-    "title": "ヨナヨナダンセ",
-    "title_en": "YONA YONA DANCE",
-    "username": "Saye"
-  },
-  "4203": {
-    "title": "いいわけバニー",
-    "title_en": "Alibi Bunny",
-    "username": "Saye"
-  },
-  "4204": {
-    "title": "Taste of Death",
-    "title_en": "Taste of Death",
-    "username": "Saye"
-  },
-  "4205": {
-    "title": "ぺこらんだむぶれいん！",
-    "title_en": "PEKORANDOM BRAIN!",
-    "username": "Saye"
-  },
-  "4206": {
-    "title": "メイジ・オブ・ヴァイオレット",
-    "title_en": "MAGE OF VIOLET",
-    "username": "Saye"
-  },
-  "4207": {
-    "title": "KONKON Beats",
-    "title_en": "KONKON Beats",
-    "username": "Saye"
-  },
-  "4208": {
-    "title": "レクイエム",
-    "title_en": "Requiem",
-    "username": "Saye"
-  },
-  "4209": {
-    "title": "A New Start",
-    "title_en": "A New Start",
-    "username": "Saye"
-  },
-  "4210": {
-    "title": "REFLECT",
-    "title_en": "REFLECT",
-    "username": "Saye"
-  },
-  "4211": {
-    "title": "ばかばっか",
-    "title_en": "Fools Fools Fools",
-    "username": "Saye"
-  },
-  "4212": {
-    "title": "blue horizon!!",
-    "title_en": "blue horizon!!",
-    "username": "Saye"
-  },
-  "4213": {
-    "title": "強風オールバック",
-    "title_en": "Kyoufuu All Back",
-    "username": "Saye"
-  },
   "4214": {
     "title": "Hololive Shuffle Medley",
     "title_en": "Hololive Shuffle Medley",
@@ -5695,44 +4580,9 @@
     "title_en": "Astrogirl",
     "username": "Saye"
   },
-  "4216": {
-    "title": "全人類　兎化計画！",
-    "title_en": "Human Rabbitality Project!",
-    "username": "Saye"
-  },
-  "4217": {
-    "title": "マーシャル・マキシマイザー",
-    "title_en": "Marshall Maximizer",
-    "username": "Saye"
-  },
-  "4218": {
-    "title": "ねねねねねねねね!大爆走",
-    "title_en": "NENENENENENENENE! DAIBAKUSOU",
-    "username": "Saye"
-  },
-  "4219": {
-    "title": "オドループ",
-    "title_en": "Oddloop",
-    "username": "Saye"
-  },
-  "4220": {
-    "title": "KINGWORLD",
-    "title_en": "KINGWORLD",
-    "username": "Saye"
-  },
   "4221": {
     "title": "絶対王政カーニバル！",
     "title_en": "Zettai Ousei Carnival!",
-    "username": "Saye"
-  },
-  "4222": {
-    "title": "High Tide",
-    "title_en": "High Tide",
-    "username": "Saye"
-  },
-  "4223": {
-    "title": "アイドル",
-    "title_en": "Idol",
     "username": "Saye"
   },
   "4272": {
@@ -9920,11 +8770,6 @@
     "title_en": "Music",
     "username": "ash♤"
   },
-  "8380": {
-    "title": "Cagayake! Girls (Vocaloid Version)",
-    "title_en": "Shine! Girls (Vocaloid Version)",
-    "username": "shay"
-  },
   "8411": {
     "title": "픽셀 다운",
     "title_en": "Pixel Down",
@@ -10910,51 +9755,6 @@
     "title_en": "westering",
     "username": "Sach"
   },
-  "8864": {
-    "title": "Eclipse",
-    "title_en": "Eclipse",
-    "username": "Sach"
-  },
-  "8865": {
-    "title": "Love Cherry Motion",
-    "title_en": "Love Cherry Motion",
-    "username": "Sach"
-  },
-  "8866": {
-    "title": "Sweet Crazy Love",
-    "title_en": "Sweet Crazy Love",
-    "username": "Sach"
-  },
-  "8867": {
-    "title": "favOriTe",
-    "title_en": "favOriTe",
-    "username": "Sach"
-  },
-  "8868": {
-    "title": "Air Force One",
-    "title_en": "Air Force One",
-    "username": "Sach"
-  },
-  "8869": {
-    "title": "One＆Only",
-    "title_en": "One&Only",
-    "username": "Sach"
-  },
-  "8870": {
-    "title": "Sonatine",
-    "title_en": "Sonatine",
-    "username": "Sach"
-  },
-  "8873": {
-    "title": "Around You",
-    "title_en": "Around You",
-    "username": "Sach"
-  },
-  "8874": {
-    "title": "Yum-Yum",
-    "title_en": "Yum-Yum",
-    "username": "Sach"
-  },
   "8883": {
     "title": "メディカドール",
     "title_en": "Medic: A Doll",
@@ -11355,11 +10155,6 @@
     "title_en": "Bohemian Rhapsody",
     "username": "Nitori09"
   },
-  "9361": {
-    "title": "ひとりぼっちクラブ",
-    "title_en": "Lonely Club",
-    "username": "shay"
-  },
   "9362": {
     "title": "Power of Love",
     "title_en": "Power of Love",
@@ -11389,11 +10184,6 @@
     "title": "ワンダー",
     "title_en": "Wonder",
     "username": "dandelionfrog"
-  },
-  "9650": {
-    "title": "POP/STARS",
-    "title_en": "POP/STARS",
-    "username": "mikurisu39_"
   },
   "9730": {
     "title": "春待ちクローバー",
@@ -12845,61 +11635,6 @@
     "title_en": "Möbius",
     "username": "Budz"
   },
-  "12000": {
-    "title": "Sad Machine",
-    "title_en": "Sad Machine",
-    "username": "shay"
-  },
-  "12001": {
-    "title": "Pit-a-Pet",
-    "title_en": "Pit-a-Pet",
-    "username": "shay"
-  },
-  "12002": {
-    "title": "東京サマーセッション",
-    "title_en": "Tokyo Summer Session",
-    "username": "shay"
-  },
-  "12003": {
-    "title": "NEMO NEMO",
-    "title_en": "NEMO NEMO",
-    "username": "shay"
-  },
-  "12004": {
-    "title": "KiLLER LADY",
-    "title_en": "KiLLER LADY",
-    "username": "shay"
-  },
-  "12005": {
-    "title": "アイティール・アイトール",
-    "title_en": "Ideal Idol",
-    "username": "shay"
-  },
-  "12010": {
-    "title": "A Danca Do WhatsApp",
-    "title_en": "A Danca Do WhatsApp",
-    "username": "shay"
-  },
-  "12011": {
-    "title": "Tear You Apart",
-    "title_en": "Tear You Apart",
-    "username": "shay"
-  },
-  "12012": {
-    "title": "endless wedge",
-    "title_en": "endless wedge",
-    "username": "shay"
-  },
-  "12013": {
-    "title": "proof of life",
-    "title_en": "proof of life",
-    "username": "shay"
-  },
-  "12014": {
-    "title": "Feedback",
-    "title_en": "Feedback",
-    "username": "shay"
-  },
   "12015": {
     "title": "0ハート",
     "title_en": "Zero Heart",
@@ -12985,11 +11720,6 @@
     "title_en": "streetcat",
     "username": "Nyx"
   },
-  "13083": {
-    "title": "ループザルーム (Larping the Rooms)",
-    "title_en": "Larping the Rooms",
-    "username": "Nyx"
-  },
   "13084": {
     "title": "ハナタバ",
     "title_en": "Hanataba",
@@ -12998,6 +11728,26 @@
   "13085": {
     "title": "Shadow Shadow",
     "title_en": "Shadow Shadow",
+    "username": "Nyx"
+  },
+  "13086": {
+    "title": "ふたつの木馬",
+    "title_en": "Twins at the carousel",
+    "username": "Nyx"
+  },
+  "13087": {
+    "title": "だんだん早くなる",
+    "title_en": "Dan Dan Hayaku Naru",
+    "username": "Nyx"
+  },
+  "13088": {
+    "title": "グッバイ宣言",
+    "title_en": "Goodbye Sengen",
+    "username": "Nyx"
+  },
+  "13089": {
+    "title": "展示中毒",
+    "title_en": "Displayholic",
     "username": "Nyx"
   },
   "13120": {
@@ -13310,71 +12060,6 @@
     "title_en": "Splatter Party",
     "username": "Jomanakk"
   },
-  "18000": {
-    "title": "絶体暗星",
-    "title_en": "The stars get dark",
-    "username": "Ruu68x"
-  },
-  "18001": {
-    "title": ".",
-    "title_en": ".",
-    "username": "Ruu68x"
-  },
-  "18002": {
-    "title": "!",
-    "title_en": "!",
-    "username": "Ruu68x"
-  },
-  "18003": {
-    "title": "クーネル・エンゲイザー",
-    "title_en": "Eating, Sleeping and Gazing",
-    "username": "Ruu68x"
-  },
-  "18004": {
-    "title": "クロマグロがとんでくる",
-    "title_en": "Kuromaguro ga Tondekuru",
-    "username": "Ruu68x"
-  },
-  "18005": {
-    "title": "暮しガスメータ",
-    "title_en": "Life with gas meter",
-    "username": "Ruu68x"
-  },
-  "18006": {
-    "title": "シニカリティ",
-    "title_en": "I've eaten myself that night.",
-    "username": "Ruu68x"
-  },
-  "18007": {
-    "title": "録画",
-    "title_en": "Video Tape",
-    "username": "Ruu68x"
-  },
-  "18008": {
-    "title": "幽霊みたい",
-    "title_en": "Like a Ghost",
-    "username": "Ruu68x"
-  },
-  "18009": {
-    "title": "クモヒトデのうまる砂の上で",
-    "title_en": "Kumohitode no Umaru Suna no Ue de",
-    "username": "Ruu68x"
-  },
-  "18010": {
-    "title": "とべない深海魚",
-    "title_en": "Tobenai Shinkaigyo",
-    "username": "Ruu68x"
-  },
-  "18011": {
-    "title": "ムシ",
-    "title_en": "Insect",
-    "username": "Ruu68x"
-  },
-  "18012": {
-    "title": "童話になったらいいのに",
-    "title_en": "The Lovely Life",
-    "username": "Ruu68x"
-  },
   "19100": {
     "title": "ゆびさきハレーション",
     "title_en": "YUBISAKI HALATION",
@@ -13440,21 +12125,6 @@
     "title_en": "ON THE MOON",
     "username": "Andreuski⋆⭒˚｡⋆"
   },
-  "34211": {
-    "title": "カラクサタウン",
-    "title_en": "Accumula Town",
-    "username": "Doatz"
-  },
-  "34212": {
-    "title": "名を冠する者たち",
-    "title_en": "You Will Know Our Names",
-    "username": "Doatz"
-  },
-  "34213": {
-    "title": "戦闘！伝説のポケモン",
-    "title_en": "Battle! Legendary - BW/B2W2",
-    "username": "Doatz"
-  },
   "34982": {
     "title": "Candy Pop",
     "title_en": "Candy Pop",
@@ -13464,46 +12134,6 @@
     "title": "スターダストレイン",
     "title_en": "Stardust Rain",
     "username": "Genmo"
-  },
-  "45001": {
-    "title": "Heartless feat. Kasane Teto",
-    "title_en": "Heartless feat. Kasane Teto",
-    "username": "Nitori09"
-  },
-  "45002": {
-    "title": "プレイ ft. ミク",
-    "title_en": "PLAY ft. Miku",
-    "username": "Nitori09"
-  },
-  "45003": {
-    "title": "Tetoveja",
-    "title_en": "Tetoveja",
-    "username": "Nitori09"
-  },
-  "45004": {
-    "title": "プレイ ft. りぶ",
-    "title_en": "PLAY ft. Rib",
-    "username": "Nitori09"
-  },
-  "45005": {
-    "title": "ベイビー・デスマッチ",
-    "title_en": "Baby Death Match",
-    "username": "Nitori09"
-  },
-  "45006": {
-    "title": "Water the Roses",
-    "title_en": "Water the Roses",
-    "username": "Nitori09"
-  },
-  "45007": {
-    "title": "Spoken For",
-    "title_en": "Spoken For",
-    "username": "Nitori09"
-  },
-  "45008": {
-    "title": "MIC Drop (Steve Aoki Remix)",
-    "title_en": "MIC Drop (Steve Aoki Remix)",
-    "username": "Nitori09"
   },
   "47100": {
     "title": "ちいかわ EP 1",
